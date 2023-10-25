@@ -53,7 +53,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3vw;
+    font-size: 3.5vw;
 }
 
 section > p {
@@ -82,14 +82,11 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background001.jpg);
-    background-size: cover;
-    background-position: right center;
+    background-image: url(../imagens/background001.jpg);
 }
 
 section#img02 {
-    background-image: url(imagens/background002.jpg);
-    background-size: cover;
+    background-image: url(../imagens/background002.jpg);
 }
 
 
